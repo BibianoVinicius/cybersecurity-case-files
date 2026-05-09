@@ -72,7 +72,7 @@ Exemplo de campanha simulada de engenharia social
 utilizando identidade visual institucional para conscientização
 sobre ataques de phishing e coleta indevida de informações.
 
-<img width="700" src="./images/cei-photo.jpg">
+<img width="700" src="./images/cei-photo.png">
 
 ---
 
