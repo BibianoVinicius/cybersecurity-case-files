@@ -38,6 +38,13 @@ https://partyrock.aws/u/bibianovinicius/YaMFmogfN/NewGuard-Cyber-Awareness-Platf
 - Prompt Engineering
 
 ---
+
+## 📸 Preview
+
 ![Thumbnail](sentinelx-partyrock/assets/ferramenta-sentinelx.png)
 
-[▶️ Clique aqui para assistir ao vídeo](sentinelx-partyrock/assets/sentinelx-demo.mp4)
+---
+
+## 🎥 Demonstração
+
+[▶️ Assistir demonstração](sentinelx-partyrock/assets/sentinelx-demo.mp4)
