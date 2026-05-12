@@ -39,6 +39,8 @@ https://partyrock.aws/u/bibianovinicius/YaMFmogfN/NewGuard-Cyber-Awareness-Platf
 
 ---
 
+---
+
 ## 📸 Preview
 
 ![Thumbnail](assets/ferramenta-sentinelx.png)
@@ -47,4 +49,4 @@ https://partyrock.aws/u/bibianovinicius/YaMFmogfN/NewGuard-Cyber-Awareness-Platf
 
 ## 🎥 Demonstração
 
-https://github.com/ViniciusBibiano/cybersecurity-case-files/raw/main/sentinelx-partyrock/assets/video.mp4
+[▶️ Clique aqui para assistir ao vídeo](assets/sentinelx-demo.mp4)
