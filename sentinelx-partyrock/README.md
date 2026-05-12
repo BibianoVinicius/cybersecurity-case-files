@@ -36,3 +36,15 @@ https://partyrock.aws/u/bibianovinicius/YaMFmogfN/NewGuard-Cyber-Awareness-Platf
 - AWS PartyRock
 - Generative AI
 - Prompt Engineering
+
+---
+
+## 📸 Preview
+
+![Thumbnail](assets/ferramenta-sentinelx.png)
+
+---
+
+## 🎥 Demonstração
+
+https://github.com/ViniciusBibiano/cybersecurity-case-files/raw/main/sentinelx-partyrock/assets/video.mp4
