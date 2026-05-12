@@ -41,7 +41,7 @@ https://partyrock.aws/u/bibianovinicius/YaMFmogfN/NewGuard-Cyber-Awareness-Platf
 
 ## 📸 Preview
 
-![Thumbnail](assets/sentinelx-demo.png)
+![Thumbnail](assets/ferramenta-sentinelx.png)
 
 ---
 
